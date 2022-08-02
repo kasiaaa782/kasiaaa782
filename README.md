@@ -1,7 +1,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=DA2267&lines=Hi%2C+my+name+is+Kasia" alt="Typing SVG" /></a><h3 align="left">A passionate frontend developer from Poland</h3>
 
-- 🌱 I’m currently learning **Angular framework**
-
 - 👨‍💻 My projects are available at [www.katarzyna-niemiec.pl](https://katarzyna-niemiec.pl/)
 
 <h3 align="left">Connect with me:</h3>
