@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=DA2267&lines=Hi%2C+my+name+is+Kasia" alt="Typing SVG" /></a><h3 align="center">A passionate frontend developer from Poland</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=DA2267&lines=Hi%2C+my+name+is+Kasia" alt="Typing SVG" /></a><h3 align="left">A passionate frontend developer from Poland</h3>
 
 - 🌱 I’m currently learning **Angular framework**
 
